@@ -1,0 +1,7 @@
+data/
+datasets/
+checkpoints/
+*.png
+output_patches/
+test_function.py
+__pycache__/
